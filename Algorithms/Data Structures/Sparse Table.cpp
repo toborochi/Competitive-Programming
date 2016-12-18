@@ -75,4 +75,4 @@ int main()
         cout<<query(a,b)<<endl;
     }
 }
-/// This code is less virgin than me
+/// This code is less virgin than me.
