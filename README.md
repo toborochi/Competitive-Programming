@@ -4,6 +4,7 @@ All algorithms in this repository are from my time in high school. Camps, OBI (B
 
 You are free to see them, use them, learn. (Its free!) :D
 
->If you have questions, ask. Maybe we can have coffee and talk about the algorithms.
->If there are errors correct it using comments so that other users understand the changes. (be explicit).
+>1. If you have questions, ask. Maybe we can have coffee and talk about the algorithms.
+
+>2. If there are errors correct it using comments so that other users understand the changes. (be explicit).
 
