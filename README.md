@@ -9,7 +9,7 @@
 
 >**- Why is it open source?**
 >
->**- Because I think students, like me, do not always have someone explain their problems to them.  Part of my learning is based on reading other people's codes until I understand them.**
+>**- Because I think students, like me, do not always have someone explain their problems to them.  Part of my learning is based on reading other people's codes and try to understand them.**
 
 
 
