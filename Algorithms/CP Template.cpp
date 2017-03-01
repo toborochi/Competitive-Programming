@@ -14,15 +14,19 @@ using namespace std;
 
 const double pi = 3.14159265;
 const int INF = 1<<30;
-const int maxn = 1e6;
+const int maxn = (1e5)+50;
 const int mod = (1e9)+7;
 const int lim = (1e5);
+
+const char filename_in[] = "in.txt";
+const char filename_ou[] = "ou.txt";
+
 
 int main()
 {
     IOS
     cin.tie(0);
-    ///freopen("in.txt","r",stdin);
-    ///freopen("out.txt","w",stdout);
+    ///freopen(filename_in,"r",stdin);
+    ///freopen(filename_ou,"w",stdout);
 }
 /// This code is less virgin than me
