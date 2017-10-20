@@ -15,3 +15,5 @@
 - [SPOJ](http://www.spoj.com/users/vlada98/)
 
 - [bo.spoj](http://bo.spoj.com/users/vlada98/)
+
+- [Kattis](https://open.kattis.com/users/zosimo)
