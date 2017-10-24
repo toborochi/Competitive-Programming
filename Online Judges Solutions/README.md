@@ -1,6 +1,6 @@
 ## **Online Judges Solutions**
 
-> Here are some Online Judges Solutions (obviously :P) , try to do problems by yourself before see this repo.
+> Here are some Online Judges Solutions, try to do problems by yourself before see this repo. :metal:
 
 **My OJ's Profiles:**
 
