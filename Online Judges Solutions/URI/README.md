@@ -4,4 +4,24 @@ Brazilian Online Judge provided by [Universidade Regional Integrada do Alto Urug
 
 [URI OJ Website](https://www.urionlinejudge.com.br)
 
-Languages Avaiable: :es: :uk: 
+Languages Avaiable:
+
+> C
+>
+> C#
+>
+> C++
+>
+> C99
+>
+> Go
+>
+> Java 7 & 8
+>
+> Python 2 & 3
+>
+> Ruby
+>
+> Scala
+
+
