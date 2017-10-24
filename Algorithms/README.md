@@ -23,7 +23,7 @@
   #define lcm(a,b)            (a*b)/(__gcd(a,b))
   #define gcd(a,b)            __gcd(a,b)
   #define UMU                 cout<<"umu"<<endl
-  #define fl					'\n'
+  #define fl				             	'\n'
 
   using namespace std;
 
