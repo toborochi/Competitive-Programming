@@ -17,3 +17,5 @@
 - [bo.spoj](http://bo.spoj.com/users/vlada98/)
 
 - [Kattis](https://open.kattis.com/users/zosimo)
+
+- [jv.umsa](https://jv.umsa.bo/userinfo.php?user=Vlada)
