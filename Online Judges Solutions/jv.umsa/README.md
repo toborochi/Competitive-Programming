@@ -17,3 +17,5 @@ Languages Avaiable:
 > Objective-C
 > 
 > FreeBasic
+
+:warning: A few problems have weak test cases.
