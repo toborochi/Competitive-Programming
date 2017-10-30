@@ -1,6 +1,7 @@
 # Algorithms
 
 - **Graph Theory**
+  * [Dijkstra](https://github.com/nozosimo/Competitive-Programming/blob/master/Algorithms/Graph%20Theory/Dijkstra.cpp)
 
 - **Dynamic Programming**
 
