@@ -2,7 +2,7 @@
 
 - **Graph Theory**
   * [Dijkstra](https://github.com/nozosimo/Competitive-Programming/blob/master/Algorithms/Graph%20Theory/Dijkstra.cpp)
-
+  * [Tarjan](https://github.com/nozosimo/Competitive-Programming/blob/master/Algorithms/Graph%20Theory/Tarjan.cpp)
 - **Dynamic Programming**
 
   * [Fast Exponentiation](https://github.com/nozosimo/Competitive-Programming/blob/master/Algorithms/Dynamic%20Programming/Fast%20Exponentiation.cpp)
