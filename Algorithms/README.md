@@ -9,7 +9,7 @@
   * [Fast Binomial Coefficents](https://github.com/nozosimo/Competitive-Programming/blob/master/Algorithms/Dynamic%20Programming/Fast%20Binomial%20Coefficent.cpp)
 
 - **Data Structures**
-* [Sparse Table](https://github.com/nozosimo/Competitive-Programming/blob/master/Algorithms/Data%20Structures/Sparse%20Table.cpp)
+  * [Sparse Table](https://github.com/nozosimo/Competitive-Programming/blob/master/Algorithms/Data%20Structures/Sparse%20Table.cpp)
 
   ## My Competitive Programming Template
 
@@ -25,7 +25,7 @@
   #define lcm(a,b)            (a*b)/(__gcd(a,b))
   #define gcd(a,b)            __gcd(a,b)
   #define UMU                 cout<<"umu"<<endl
-  #define fl				             	'\n'
+  #define fl                  '\n'
 
   using namespace std;
 
