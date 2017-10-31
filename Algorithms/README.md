@@ -9,6 +9,7 @@
   * [Fast Binomial Coefficents](https://github.com/nozosimo/Competitive-Programming/blob/master/Algorithms/Dynamic%20Programming/Fast%20Binomial%20Coefficent.cpp)
 
 - **Data Structures**
+* [Sparse Table](https://github.com/nozosimo/Competitive-Programming/blob/master/Algorithms/Data%20Structures/Sparse%20Table.cpp)
 
   ## My Competitive Programming Template
 
