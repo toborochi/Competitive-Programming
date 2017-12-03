@@ -12,6 +12,7 @@
 
 - **Data Structures**
   * [Sparse Table](https://github.com/nozosimo/Competitive-Programming/blob/master/Algorithms/Data%20Structures/Sparse%20Table.cpp)
+  * [Heap](https://github.com/nozosimo/Competitive-Programming/blob/master/Algorithms/Data%20Structures/Heap%20(Data%20Structure).cpp)
 
   ## My Competitive Programming Template
 
