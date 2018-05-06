@@ -22,6 +22,8 @@
   #define ll                  long long
   #define pb                  push_back
   #define par(a,b)            make_pair(a,b)
+  #define fst                 first
+  #define scd                 second
   #define pfor(a,b,name)      for(int i=a;i<=b;++i){cout<<name[i]<<" ";}cout<<'\n'
   #define ifor(a,b,name)      for(int i=a;i<=b;++i){cin>>name[i];}
   #define euclid(x1,y1,x2,y2) sqrt((x2-x1)*(x2-x1) + (y2-y1)*(y2-y1))
